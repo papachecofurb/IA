@@ -1,0 +1,20 @@
+https://github.com/danielmiessler/fabric
+
+git clone https://github.com/danielmiessler/fabric.git
+  169  cd fabric/
+  170  sudo apt install pipx
+  171  pipx install .
+  172  fabric --setup
+  173  clear
+  174  fabric --listmodels
+  175  yt --transcript https://youtu.be/UbDyjIIGaxQ?si=rkJUUf2r_5RVrgZ8 | fabric --model llama3:latest -sp extract_widson
+  176  yt --transcript https://youtu.be/UbDyjIIGaxQ?si=rkJUUf2r_5RVrgZ8 | fabric --model llama3:latest -sp extract_wisdson
+  177  yt --transcript https://youtu.be/UbDyjIIGaxQ?si=rkJUUf2r_5RVrgZ8 | fabric --model llama3:latest 
+  178  clear
+  179  echo "Give me a list of al ice cream" | fabric -s -p ai
+  180  echo "Give me a list of al ice cream" | fabric -s -p llama3:latest 
+  181  echo "Give me a list of al ice cream" | fabric --pattern summarize
+  182  yt --transcript https://youtube.com/watch?v=uXs-zPc63kM | fabric --stream --pattern extract_wisdom
+  183  apt install ffmpeg
+  184  clear
+  185  yt --transcript https://youtube.com/watch?v=uXs-zPc63kM | fabric --stream --pattern extract_wisdom
