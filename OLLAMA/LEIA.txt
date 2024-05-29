@@ -1,0 +1,8 @@
+#INTERFACE IA:
+https://useanything.com/download
+
+#OLLAMA:
+https://github.com/ollama/ollama/tree/main
+
+#INSTALL INTERFACE
+https://www.youtube.com/watch?v=IJYC6zf86lU
